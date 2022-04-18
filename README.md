@@ -1,4 +1,4 @@
-<h1 align = "center">  Kova ⚡  </h1>
+<h2 align = "center">  Kova ⚡  </h2>
 
 ![Banner git](https://github.com/FerKovalink/FerKovalink/blob/main/banner-git.gif?raw=true)
 <br>
