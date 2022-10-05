@@ -1,10 +1,9 @@
 <h2 align = "center">  Kova ⚡  </h2>
 
-![Banner git](https://github.com/FerKovalink/FerKovalink/blob/main/2ff428006f3ade5f10beac69372062ab.gif?raw=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ferkovalink=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerKovalink&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerKovalink&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 - 📫 Email: ferkovalink@gmail.com
