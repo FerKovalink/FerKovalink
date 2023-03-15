@@ -8,6 +8,7 @@
 <br>
 - 📫 Email: ferkovalink@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/fernando-kovalink-6024a6232/
+- 📷 Instagram: https://www.instagram.com/digital_dreams.ar/
 
 
 <!--
