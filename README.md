@@ -4,6 +4,7 @@
 <br>
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferkovalink&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferkovalink&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ferkovalink=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 - 📫 Email: ferkovalink@gmail.com
