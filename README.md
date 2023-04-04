@@ -3,7 +3,7 @@
 ![Banner git](https://github.com/FerKovalink/FerKovalink/blob/main/2ff428006f3ade5f10beac69372062ab.gif?raw=true)
 <br>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferkovalink&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferkovalink&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4rkd&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 - 📫 Email: ferkovalink@gmail.com
