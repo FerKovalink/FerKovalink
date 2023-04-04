@@ -4,13 +4,11 @@
 <br>
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferkovalink&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferkovalink&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ferkovalink=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 - 📫 Email: ferkovalink@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/fernando-kovalink-6024a6232/
 - 📷 Instagram: https://www.instagram.com/digital_dreams.ar/
-
 
 <!--
 **FerKovalink/FerKovalink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
