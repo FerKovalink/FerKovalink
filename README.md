@@ -5,8 +5,8 @@
 <br>
 <br>
 - 📫 Email: ferkovalink@gmail.com
-- 💬 Linkedin: https://www.linkedin.com/in/fernando-kovalink-6024a6232/
-- 📷 Instagram: https://www.instagram.com/digital_dreams.ar/
+- 💬 Website: https://kova-link.netlify.app/
+- 📷 Instagram: https://www.instagram.com/kova_link.website/
 
 <!--
 **FerKovalink/FerKovalink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
