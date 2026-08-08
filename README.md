@@ -5,7 +5,7 @@
 <br>
 <br>
 - 📫 Email: ferkovalink@gmail.com
-- 💬 Website: https://kova-link.netlify.app/
+- 💬 Website: https://kovalink.com.ar/
 - 📷 Instagram: https://www.instagram.com/kova_link.website/
 
 <!--
