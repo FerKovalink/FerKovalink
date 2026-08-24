@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-- 📫 Email: ferkovalink@gmail.com
+- 📫 Email: info@kovalink.com.ar
 - 💬 Website: https://kovalink.com.ar/
 - 📷 Instagram: https://www.instagram.com/kova_link.website/
 
