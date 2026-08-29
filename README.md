@@ -1,7 +1,6 @@
-<h1 align = "center"> Kova-Link ⚡  </h1>
+<h1 align = "center"> Kova-Link 💻 </h1>
 
 ![Banner git](https://github.com/FerKovalink/FerKovalink/blob/main/2ff428006f3ade5f10beac69372062ab.gif?raw=true)
-<br>
 <br>
 <br>
 - 📫 Email: info@kovalink.com.ar
