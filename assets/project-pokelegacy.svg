@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-labelledby="title desc">
+<title id="title">PokeLegacy</title>
+<desc id="desc">Aventura roguelike fan-made de Pokémon por Kanto. Estética retro con una Poké Ball pixelada.</desc>
+<defs><clipPath id="clip"><rect width="480" height="160" rx="12"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="480" height="160" fill="#17182f"/>
+<path d="M332 0v160M356 0v160M380 0v160M404 0v160M428 0v160M452 0v160M476 0v160M320 8h160M320 32h160M320 56h160M320 80h160M320 104h160M320 128h160M320 152h160" stroke="#a59bd1" opacity=".08"/>
+<text x="25" y="35" fill="#b9adea" font-family="Consolas,monospace" font-size="12" letter-spacing="2">KOVA-LINK / PROJECTS</text>
+<text x="22" y="94" fill="#e5d1ff" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1">PokeLegacy</text>
+<text x="25" y="133" fill="#b9adea" font-family="Arial,Helvetica,sans-serif" font-size="16">ROGUELIKE / AVENTURA EN KANTO</text>
+<g transform="translate(350 29)" shape-rendering="crispEdges">
+<path d="M30 0h40v10h20v20h10v40H90v20H70v10H30V90H10V70H0V30h10V10h20Z" fill="#0b0d1c"/>
+<path d="M30 10h40v10h10v10h10v15H10V30h10V20h10Z" fill="#d486a0"/>
+<path d="M30 20h20v8H30v12H20V30h10Z" fill="#f4bac9"/>
+<path d="M10 55h80v15H80v10H70v10H30V80H20V70H10Z" fill="#d9d8ed"/>
+<path d="M30 80h40v10H30Z" fill="#aca7cb"/>
+<path d="M40 35h20v10h10v20H60v10H40V65H30V45h10Z" fill="#0b0d1c"/>
+<path d="M40 45h20v20H40Z" fill="#eeecf8"/>
+<path d="M45 50h10v10H45Z" fill="#b9adea"/>
+</g>
+<rect x=".5" y=".5" width="479" height="159" rx="12" fill="none" stroke="#b9adea" stroke-opacity=".2"/>
+</g>
+</svg>

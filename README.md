@@ -99,11 +99,11 @@ Una selección de productos, demos y experimentos que desarrollo con Kova-Link.
       <p><a href="https://link-members.netlify.app/">Probar demo ↗</a></p>
     </td>
     <td valign="top">
-      <a href="https://vision.kova-link.workers.dev/"><img src="assets/project-vision.svg" width="480" alt="Vision — exploración geoespacial en 3D"></a>
-      <h3>Vision</h3>
+      <a href="https://pokelegacy.net/"><img src="assets/project-pokelegacy.svg" width="480" alt="PokeLegacy — aventura roguelike Pokémon por Kanto"></a>
+      <h3>PokeLegacy</h3>
       <p><strong>Proyecto personal</strong></p>
-      <p>Exploración geoespacial en 3D con Cesium e integración de fuentes de datos: barcos, incendios, tráfico y cámaras.</p>
-      <p><a href="https://vision.kova-link.workers.dev/">Explorar proyecto ↗</a></p>
+      <p>Juego web fan-made de Pokémon con recorrido roguelike por Kanto, combates automáticos, capturas y progresión del equipo.</p>
+      <p><a href="https://pokelegacy.net/">Jugar PokeLegacy ↗</a></p>
     </td>
   </tr>
 </table>
