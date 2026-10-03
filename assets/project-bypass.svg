@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-labelledby="title desc">
+<title id="title">bypass</title><desc id="desc">ByPass. Plataforma de entradas y eventos.</desc>
+<defs><clipPath id="clip"><rect width="480" height="160" rx="12"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="480" height="160" fill="#100f1b"/>
+<g transform="translate(370 27) rotate(14 42 50)">
+<rect width="78" height="111" rx="8" fill="#77dfed"/><path d="M0 77H78" stroke="#100f1b" stroke-width="3" stroke-dasharray="5 5"/>
+<path d="M19 23H59M19 33H47M19 43H59" stroke="#100f1b" stroke-width="4"/><path d="M21 90V102M29 90V102M37 90V102M49 90V102M57 90V102" stroke="#100f1b" stroke-width="3"/></g>
+<text x="25" y="35" fill="#ff85b0" font-family="Consolas,monospace" font-size="12" letter-spacing="2">KOVA-LINK / PROJECTS</text>
+<text x="22" y="94" fill="#ff85b0" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="-1">BYPASS</text>
+<text x="25" y="133" fill="#ff85b0" font-family="Arial,Helvetica,sans-serif" font-size="17">ENTRADAS + EVENTOS</text>
+<rect x=".5" y=".5" width="479" height="159" rx="12" fill="none" stroke="#ff85b0" stroke-opacity=".2"/>
+</g></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-labelledby="title desc">
+<title id="title">vision</title><desc id="desc">Vision. Exploración geoespacial en 3D.</desc>
+<defs><clipPath id="clip"><rect width="480" height="160" rx="12"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="480" height="160" fill="#081b1b"/>
+<g transform="translate(399 80)" fill="none" stroke="#467e6c">
+<circle r="60"/><ellipse rx="27" ry="60"/><ellipse rx="48" ry="60"/><ellipse rx="60" ry="21"/><path d="M-60 0H60M0-60V60"/>
+<path d="M-29-41L8-14L31-34L44 4L17 26L-19 12Z" fill="#8de7be" fill-opacity=".08" stroke="#8de7be"/>
+<g fill="#8de7be" stroke="none"><circle cx="8" cy="-14" r="4"/><circle cx="44" cy="4" r="4"/><circle cx="-19" cy="12" r="4"/></g></g>
+<text x="25" y="35" fill="#8de7be" font-family="Consolas,monospace" font-size="12" letter-spacing="2">KOVA-LINK / PROJECTS</text>
+<text x="22" y="94" fill="#8de7be" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="-1">VISION</text>
+<text x="25" y="133" fill="#8de7be" font-family="Arial,Helvetica,sans-serif" font-size="17">GLOBO 3D + DATOS</text>
+<rect x=".5" y=".5" width="479" height="159" rx="12" fill="none" stroke="#8de7be" stroke-opacity=".2"/>
+</g></svg>

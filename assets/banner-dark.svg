@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="400" viewBox="0 0 1080 400" role="img" aria-labelledby="title desc">
+<title id="title">Kova-Link — Fernando Kovalink</title>
+<desc id="desc">Full Stack Developer. Desarrollo web y software a medida desde Argentina.</desc>
+<defs>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#203d59" stroke-width="1"/></pattern>
+  <linearGradient id="fade"><stop stop-color="#06111f" stop-opacity="0"/><stop offset="1" stop-color="#06111f"/></linearGradient>
+  <clipPath id="clip"><rect width="1080" height="400" rx="22"/></clipPath>
+</defs>
+<style>
+  .cursor { animation: blink 1.3s steps(2, start) infinite; }
+  .signal { animation: breathe 4s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes breathe { 50% { opacity: .35; } }
+  @media (prefers-reduced-motion: reduce) { .cursor, .signal { animation: none; } }
+</style>
+<g clip-path="url(#clip)">
+<rect width="1080" height="400" fill="#06111f"/>
+<rect x="630" y="58" width="450" height="280" fill="url(#grid)" opacity=".55"/>
+<rect x="18" y="18" width="1044" height="364" rx="13" fill="none" stroke="#203d59"/>
+<path d="M18 62H1062" stroke="#203d59"/>
+<circle cx="43" cy="40" r="5" fill="#ff7973"/><circle cx="63" cy="40" r="5" fill="#efc36c"/><circle cx="83" cy="40" r="5" fill="#68c4ff"/>
+<text x="111" y="46" fill="#a7c0d9" font-family="Consolas,monospace" font-size="17">kova-link / profile.ts</text>
+<text x="1034" y="46" text-anchor="end" fill="#a7c0d9" font-family="Consolas,monospace" font-size="16">@FerKovalink</text>
+<text x="62" y="114" fill="#68c4ff" font-family="Consolas,monospace" font-size="17" letter-spacing="3">WEB DEVELOPMENT + SOFTWARE</text>
+<text x="57" y="207" fill="#f2f8ff" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="800" letter-spacing="-4">KOVA<tspan fill="#68c4ff">-LINK</tspan></text>
+<text x="62" y="251" fill="#f2f8ff" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="600">Fernando Kovalink / Full Stack Developer</text>
+<text x="62" y="291" fill="#a7c0d9" font-family="Arial,Helvetica,sans-serif" font-size="24">Desarrollo web y software a medida.</text>
+<rect class="cursor" x="465" y="273" width="12" height="23" rx="1" fill="#68c4ff"/>
+<g transform="translate(790 109)">
+  <rect x="-19" y="-7" width="233" height="207" rx="27" fill="#0b1d31" stroke="#203d59"/>
+  <g transform="translate(4 4) scale(8)"><path d="M22 19.2727C22 20.779 20.779 22 19.2727 22H14.7273C13.221 22 12 20.779 12 19.2727V12H19.2727C20.779 12 22 13.221 22 14.7273V19.2727Z" fill="#68C4FF"/>
+<rect x="15" y="2" width="7" height="7" rx="2" fill="#0C79D8"/>
+<rect x="2" y="15" width="7" height="7" rx="2" fill="#0C79D8"/>
+<path d="M12 12H4.72727C3.22104 12 2 10.779 2 9.27273V4.72727C2 3.22104 3.22104 2 4.72727 2H9.27273C10.779 2 12 3.22104 12 4.72727V12Z" fill="#2E9EFF"/></g>
+</g>
+<path d="M744 150H771M744 272H771" stroke="#68c4ff" stroke-width="2" opacity=".65"/>
+<circle class="signal" cx="742" cy="150" r="5" fill="#68c4ff"/>
+<circle cx="742" cy="272" r="5" fill="#68c4ff"/>
+<path d="M18 335H1062" stroke="#203d59"/>
+<text x="43" y="365" fill="#68c4ff" font-family="Consolas,monospace" font-size="17">&gt; ideas.convertTo('software')</text>
+<text x="1035" y="365" text-anchor="end" fill="#a7c0d9" font-family="Consolas,monospace" font-size="17">ARGENTINA · UTC-3</text>
+</g>
+</svg>

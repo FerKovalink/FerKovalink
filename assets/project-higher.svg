@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-labelledby="title desc">
+<title id="title">higher</title><desc id="desc">Higher Parfum. Catálogo y gestión comercial.</desc>
+<defs><clipPath id="clip"><rect width="480" height="160" rx="12"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="480" height="160" fill="#f3eee5"/>
+<g transform="translate(363 30)">
+<rect x="27" y="0" width="31" height="20" rx="3" fill="#413826"/><rect x="31" y="20" width="23" height="8" fill="#b09265"/>
+<rect x="10" y="29" width="65" height="82" rx="10" fill="#e7d5af" stroke="#b09265" stroke-width="2"/><rect x="20" y="48" width="45" height="40" fill="#fbf8f1"/>
+<text x="42" y="74" text-anchor="middle" font-family="Georgia,serif" font-size="27" fill="#54432b">H</text></g>
+<text x="25" y="35" fill="#54432b" font-family="Consolas,monospace" font-size="12" letter-spacing="2">KOVA-LINK / PROJECTS</text>
+<text x="22" y="94" fill="#54432b" font-family="Georgia,serif" font-size="46" font-weight="700" letter-spacing="-1">Higher</text>
+<text x="25" y="133" fill="#54432b" font-family="Arial,Helvetica,sans-serif" font-size="17">PARFUM / COMERCIO + CRM</text>
+<rect x=".5" y=".5" width="479" height="159" rx="12" fill="none" stroke="#54432b" stroke-opacity=".2"/>
+</g></svg>
